@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anandhitha</h1>
+<h1 align="center">Hi 👋, I'm Anandhitha C</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Real+World+Projects;Always+Learning+%26+Improving&center=true&width=500&height=45">
@@ -63,7 +63,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anandhitha20&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandhitha20&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
@@ -84,13 +83,10 @@
 ## 📫 Connect With Me
 
 * 📧 Email: [anandhithac11a@gmail.com](mailto:your-email@gmail.com)
-* 🔗 LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/anandhitha-chandrasekaran-627151277/)
+* 🔗 LinkedIn: [Anandhithac-linkedin](https://www.linkedin.com/in/anandhitha-chandrasekaran-627151277/)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anandhitha20&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
   ⭐ Building • Learning • Growing
